@@ -1,0 +1,110 @@
+2018-09-28 22:42:57.8019|INFO|Persenter_server.Logger|Program Started
+2018-09-28 22:42:57.8678|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-28 22:43:01.5942|ERROR|Persenter_server.Logger|Command 'start' don't support these parameters
+2018-09-28 22:43:49.1813|INFO|Persenter_server.Logger|Program Started
+2018-09-28 22:43:49.2300|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-28 22:45:09.2834|INFO|Persenter_server.Logger|Program Started
+2018-09-28 22:45:09.3326|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-28 22:46:12.0363|INFO|Persenter_server.Logger|Program Started
+2018-09-28 22:46:12.0836|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-28 22:46:45.1753|INFO|Persenter_server.Logger|Program Started
+2018-09-28 22:46:45.2290|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-28 22:47:03.5366|INFO|Persenter_server.Logger|Program Started
+2018-09-28 22:47:03.5847|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-28 22:50:36.3358|INFO|Persenter_server.Logger|Program Started
+2018-09-28 22:50:36.3802|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-28 22:52:29.9333|INFO|Persenter_server.Logger|InputLoop Thread Stopped
+2018-09-28 22:52:29.9333|INFO|Persenter_server.Logger|Program stoped
+2018-09-28 22:53:18.4770|INFO|Persenter_server.Logger|Program Started
+2018-09-28 22:53:18.5250|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-28 23:00:33.0771|INFO|Persenter_server.Logger|Program Started
+2018-09-28 23:00:33.1251|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-28 23:02:04.3809|INFO|Persenter_server.Logger|Program Started
+2018-09-28 23:02:04.4300|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-28 23:02:59.7027|INFO|Persenter_server.Logger|Program Started
+2018-09-28 23:02:59.7492|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-28 23:08:56.5414|INFO|Persenter_server.Logger|Program Started
+2018-09-28 23:08:56.5860|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-28 23:09:42.1698|INFO|Persenter_server.Logger|Program Started
+2018-09-28 23:09:42.2148|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-28 23:10:34.5733|INFO|Persenter_server.Logger|Program Started
+2018-09-28 23:10:34.6220|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-28 23:11:12.1473|INFO|Persenter_server.Logger|Program Started
+2018-09-28 23:11:12.1944|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-28 23:12:12.4184|INFO|Persenter_server.Logger|Program Started
+2018-09-28 23:12:12.4671|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-28 23:12:57.2752|INFO|Persenter_server.Logger|Program Started
+2018-09-28 23:12:57.3212|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-28 23:13:55.2946|INFO|Persenter_server.Logger|Program Started
+2018-09-28 23:13:55.3408|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 11:28:08.6591|INFO|Persenter_server.Logger|Program Started
+2018-09-29 11:28:08.7087|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 13:11:48.2808|INFO|Persenter_server.Logger|Program Started
+2018-09-29 13:11:48.3256|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 13:15:19.1573|INFO|Persenter_server.Logger|Program Started
+2018-09-29 13:15:19.2039|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 13:17:19.6909|INFO|Persenter_server.Logger|Program Started
+2018-09-29 13:17:19.7371|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 13:17:22.1523|ERROR|Persenter_server.Logger|Exception of type 'System.OutOfMemoryException' was thrown.
+2018-09-29 13:18:04.4992|INFO|Persenter_server.Logger|Program Started
+2018-09-29 13:18:04.5419|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 13:19:17.5529|INFO|Persenter_server.Logger|Program Started
+2018-09-29 13:19:17.5994|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 13:20:43.0891|INFO|Persenter_server.Logger|Program Started
+2018-09-29 13:20:43.1322|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 13:38:14.2166|INFO|Persenter_server.Logger|Program Started
+2018-09-29 13:38:14.2620|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 13:41:51.5571|INFO|Persenter_server.Logger|Program Started
+2018-09-29 13:41:51.6064|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 13:43:32.9076|INFO|Persenter_server.Logger|Program Started
+2018-09-29 13:43:32.9542|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 14:01:11.2749|INFO|Persenter_server.Logger|Program Started
+2018-09-29 14:01:11.3255|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 14:05:47.4126|INFO|Persenter_server.Logger|Program Started
+2018-09-29 14:05:47.4593|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 14:11:58.0080|INFO|Persenter_server.Logger|Program Started
+2018-09-29 14:11:58.0544|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 14:12:25.5385|INFO|Persenter_server.Logger|Program Started
+2018-09-29 14:12:25.5830|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 14:12:47.7846|INFO|Persenter_server.Logger|Program Started
+2018-09-29 14:12:47.8322|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 14:14:14.3205|INFO|Persenter_server.Logger|Program Started
+2018-09-29 14:14:14.3644|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 14:18:40.3794|INFO|Persenter_server.Logger|Program Started
+2018-09-29 14:18:40.4291|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 14:20:21.1246|INFO|Persenter_server.Logger|Program Started
+2018-09-29 14:20:21.1699|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 14:20:55.1571|INFO|Persenter_server.Logger|Program Started
+2018-09-29 14:20:55.2049|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 17:40:17.6145|INFO|Persenter_server.Logger|Program Started
+2018-09-29 17:40:17.6625|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 17:41:27.1914|INFO|Persenter_server.Logger|Program Started
+2018-09-29 17:41:27.2463|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 17:43:26.9769|INFO|Persenter_server.Logger|Program Started
+2018-09-29 17:43:27.0324|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 17:44:22.2896|INFO|Persenter_server.Logger|Program Started
+2018-09-29 17:44:22.3368|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 17:47:04.5407|INFO|Persenter_server.Logger|Program Started
+2018-09-29 17:47:04.5924|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 17:48:10.1415|INFO|Persenter_server.Logger|Program Started
+2018-09-29 17:48:10.1883|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 17:49:38.7931|INFO|Persenter_server.Logger|Program Started
+2018-09-29 17:49:38.8403|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 17:51:00.8067|INFO|Persenter_server.Logger|Program Started
+2018-09-29 17:51:00.8542|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 17:51:34.0015|INFO|Persenter_server.Logger|Program Started
+2018-09-29 17:51:34.0500|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 17:52:09.0489|INFO|Persenter_server.Logger|Program Started
+2018-09-29 17:52:09.0954|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-29 17:53:10.5459|INFO|Persenter_server.Logger|Program Started
+2018-09-29 17:53:10.5916|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-30 18:09:29.9372|INFO|Persenter_server.Logger|Program Started
+2018-09-30 18:09:29.9872|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-30 18:11:01.8127|INFO|Persenter_server.Logger|Program Started
+2018-09-30 18:11:01.8598|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-30 18:11:24.1511|INFO|Persenter_server.Logger|Program Started
+2018-09-30 18:11:24.2029|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-30 18:12:48.9980|INFO|Persenter_server.Logger|Program Started
+2018-09-30 18:12:49.0413|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-30 18:56:45.9358|INFO|Persenter_server.Logger|Program Started
+2018-09-30 18:56:45.9819|INFO|Persenter_server.Logger|InputLoop Thread Started

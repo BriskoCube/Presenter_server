@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ProxyServer;
+using System;
 using System.Threading;
 
 namespace Persenter_server
@@ -24,6 +25,14 @@ namespace Persenter_server
                 Help.ShowHelp((string)param.Parsed[0]);
             });
 
+            cmds.Add("start", (param) => {
+                /*Server serv = new Server();
+                serv.Start();*/
+                ServerConnected serverConnected = new ServerConnected();
+            });
+
+
+
             AdvancedConsole.Start();
             AdvancedConsole.NewCMDLine();
 
@@ -44,7 +53,7 @@ namespace Persenter_server
             };
 
             int i = 0;
-            while (i++ < 1000) {
+            while (i++ < 100000) {
                 Thread.Sleep(100);
             }
 

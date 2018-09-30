@@ -166,7 +166,7 @@ namespace Persenter_server
         public bool Match(params string[] param)
         {
             // If no param
-            if (_types == null)
+            if (_types[0] == null)
                 return param.Length == 0;
 
             // If nb of types and params unmatch

@@ -24,3 +24,16 @@ c:/users/julien quartier/source/repos/Persenter_server/Persenter_server/obj/Debu
 /mnt/c/Users/Julien Quartier/source/repos/Persenter_server/Persenter_server/obj/Debug/netcoreapp2.0/Persenter_server.AssemblyInfo.cs
 /mnt/c/Users/Julien Quartier/source/repos/Persenter_server/Persenter_server/obj/Debug/netcoreapp2.0/Persenter_server.dll
 /mnt/c/Users/Julien Quartier/source/repos/Persenter_server/Persenter_server/obj/Debug/netcoreapp2.0/Persenter_server.pdb
+C:\Users\julie\Documents\Presenter_server\Persenter_server\bin\Debug\netcoreapp2.0\Persenter_server.deps.json
+C:\Users\julie\Documents\Presenter_server\Persenter_server\bin\Debug\netcoreapp2.0\Persenter_server.runtimeconfig.json
+C:\Users\julie\Documents\Presenter_server\Persenter_server\bin\Debug\netcoreapp2.0\Persenter_server.runtimeconfig.dev.json
+C:\Users\julie\Documents\Presenter_server\Persenter_server\bin\Debug\netcoreapp2.0\Persenter_server.dll
+C:\Users\julie\Documents\Presenter_server\Persenter_server\bin\Debug\netcoreapp2.0\Persenter_server.pdb
+C:\Users\julie\Documents\Presenter_server\Persenter_server\obj\Debug\netcoreapp2.0\Persenter_server.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Presenter_server\Persenter_server\obj\Debug\netcoreapp2.0\Persenter_server.Properties.Resources.resources
+C:\Users\julie\Documents\Presenter_server\Persenter_server\obj\Debug\netcoreapp2.0\Persenter_server.csproj.GenerateResource.cache
+C:\Users\julie\Documents\Presenter_server\Persenter_server\obj\Debug\netcoreapp2.0\Persenter_server.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Presenter_server\Persenter_server\obj\Debug\netcoreapp2.0\Persenter_server.AssemblyInfoInputs.cache
+C:\Users\julie\Documents\Presenter_server\Persenter_server\obj\Debug\netcoreapp2.0\Persenter_server.AssemblyInfo.cs
+C:\Users\julie\Documents\Presenter_server\Persenter_server\obj\Debug\netcoreapp2.0\Persenter_server.dll
+C:\Users\julie\Documents\Presenter_server\Persenter_server\obj\Debug\netcoreapp2.0\Persenter_server.pdb

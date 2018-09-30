@@ -548,3 +548,7 @@
 2018-09-28 09:43:06.1338|INFO|Persenter_server.Logger|InputLoop Thread Started
 2018-09-28 09:44:46.6910|INFO|Persenter_server.Logger|InputLoop Thread Stopped
 2018-09-28 09:44:46.6926|INFO|Persenter_server.Logger|Program stoped
+2018-09-28 22:02:05.0080|INFO|Persenter_server.Logger|Program Started
+2018-09-28 22:02:05.0616|INFO|Persenter_server.Logger|InputLoop Thread Started
+2018-09-28 22:37:18.7529|INFO|Persenter_server.Logger|Program Started
+2018-09-28 22:37:18.8083|INFO|Persenter_server.Logger|InputLoop Thread Started

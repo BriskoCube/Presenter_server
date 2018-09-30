@@ -1,0 +1,9 @@
+C:\Users\julie\Documents\Presenter_server\ProxyServer\bin\Debug\netcoreapp2.1\ProxyServer.deps.json
+C:\Users\julie\Documents\Presenter_server\ProxyServer\bin\Debug\netcoreapp2.1\ProxyServer.dll
+C:\Users\julie\Documents\Presenter_server\ProxyServer\bin\Debug\netcoreapp2.1\ProxyServer.pdb
+C:\Users\julie\Documents\Presenter_server\ProxyServer\obj\Debug\netcoreapp2.1\ProxyServer.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Presenter_server\ProxyServer\obj\Debug\netcoreapp2.1\ProxyServer.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Presenter_server\ProxyServer\obj\Debug\netcoreapp2.1\ProxyServer.AssemblyInfoInputs.cache
+C:\Users\julie\Documents\Presenter_server\ProxyServer\obj\Debug\netcoreapp2.1\ProxyServer.AssemblyInfo.cs
+C:\Users\julie\Documents\Presenter_server\ProxyServer\obj\Debug\netcoreapp2.1\ProxyServer.dll
+C:\Users\julie\Documents\Presenter_server\ProxyServer\obj\Debug\netcoreapp2.1\ProxyServer.pdb

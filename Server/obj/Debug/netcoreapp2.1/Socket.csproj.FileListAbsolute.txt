@@ -1,0 +1,9 @@
+C:\Users\julie\Documents\Presenter_server\Server\bin\Debug\netcoreapp2.1\Socket.deps.json
+C:\Users\julie\Documents\Presenter_server\Server\bin\Debug\netcoreapp2.1\Socket.dll
+C:\Users\julie\Documents\Presenter_server\Server\bin\Debug\netcoreapp2.1\Socket.pdb
+C:\Users\julie\Documents\Presenter_server\Server\obj\Debug\netcoreapp2.1\Socket.csprojAssemblyReference.cache
+C:\Users\julie\Documents\Presenter_server\Server\obj\Debug\netcoreapp2.1\Socket.csproj.CoreCompileInputs.cache
+C:\Users\julie\Documents\Presenter_server\Server\obj\Debug\netcoreapp2.1\Socket.AssemblyInfoInputs.cache
+C:\Users\julie\Documents\Presenter_server\Server\obj\Debug\netcoreapp2.1\Socket.AssemblyInfo.cs
+C:\Users\julie\Documents\Presenter_server\Server\obj\Debug\netcoreapp2.1\Socket.dll
+C:\Users\julie\Documents\Presenter_server\Server\obj\Debug\netcoreapp2.1\Socket.pdb
